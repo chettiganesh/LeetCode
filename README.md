@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chettiganesh/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search

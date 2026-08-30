@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/chettiganesh/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/chettiganesh/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chettiganesh/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/chettiganesh/LeetCode/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chettiganesh/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chettiganesh/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -118,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chettiganesh/LeetCode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

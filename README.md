@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/chettiganesh/LeetCode/tree/master/0069-sqrtx) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/chettiganesh/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/chettiganesh/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/chettiganesh/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/chettiganesh/LeetCode/tree/master/0125-valid-palindrome) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/chettiganesh/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

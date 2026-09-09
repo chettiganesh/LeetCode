@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chettiganesh/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |

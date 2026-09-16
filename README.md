@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/chettiganesh/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/chettiganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chettiganesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/chettiganesh/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/chettiganesh/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/chettiganesh/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chettiganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chettiganesh/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chettiganesh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/chettiganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chettiganesh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer

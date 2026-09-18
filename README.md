@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/chettiganesh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/chettiganesh/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/chettiganesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chettiganesh/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/chettiganesh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chettiganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chettiganesh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chettiganesh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/chettiganesh/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/chettiganesh/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
 | [0836-rectangle-overlap](https://github.com/chettiganesh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -195,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chettiganesh/LeetCode/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

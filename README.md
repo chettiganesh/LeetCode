@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/chettiganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chettiganesh/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/chettiganesh/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chettiganesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/chettiganesh/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chettiganesh/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/chettiganesh/LeetCode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/chettiganesh/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chettiganesh/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chettiganesh/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chettiganesh/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chettiganesh/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chettiganesh/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chettiganesh/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/chettiganesh/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chettiganesh/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chettiganesh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/chettiganesh/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/chettiganesh/LeetCode/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/chettiganesh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3870-count-commas-in-range](https://github.com/chettiganesh/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chettiganesh/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/chettiganesh/LeetCode/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |

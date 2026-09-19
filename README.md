@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/chettiganesh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/chettiganesh/LeetCode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/chettiganesh/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [3870-count-commas-in-range](https://github.com/chettiganesh/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/chettiganesh/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/chettiganesh/LeetCode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/chettiganesh/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

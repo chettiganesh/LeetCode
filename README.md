@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/chettiganesh/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chettiganesh/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/chettiganesh/LeetCode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chettiganesh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chettiganesh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers

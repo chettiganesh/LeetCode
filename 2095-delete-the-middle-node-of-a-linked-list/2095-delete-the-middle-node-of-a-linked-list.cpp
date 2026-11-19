@@ -22,7 +22,7 @@ public:
 
         }
         ListNode* deleteNode = prev->next;
-        prev->next=slow->next;
+        prev->next=prev->next->next;
         delete deleteNode;
         
         return head;

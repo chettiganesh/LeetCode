@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/chettiganesh/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/chettiganesh/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/chettiganesh/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/chettiganesh/LeetCode/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/chettiganesh/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chettiganesh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chettiganesh/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chettiganesh/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chettiganesh/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Trie
 |  |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/chettiganesh/LeetCode/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/chettiganesh/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/chettiganesh/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
